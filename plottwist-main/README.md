@@ -106,26 +106,4 @@ To run the client locally, follow the below steps:
 - **Zod**: Zod for consistent input validation, data structuring, and error handling.
 - **PostgreSQL**: Supabase is used to manage our postgres database.
 
-## Contributing 🤝
 
-We welcome open-source contributions to **Plottwist project** ! If you would like to contribute, please follow the below steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature/fix: `git checkout -b feature-name`.
-3. Make your changes and commit them: `git commit -m 'Add some feature'`.
-4. Push the changes to your forked repository: `git push origin feature-name`.
-5. Open a pull request to the main repository's `main` branch.
-
-### Contributors
-
-<a href="https://github.com/NeoFoxxo/plottwist/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=NeoFoxxo/plottwist" />
-</a>
-
-## License 📝
-
-This project is licensed under the [GPL 3 License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
-
-## Contact 💬
-
-If you have any questions, suggestions, or feedback, please don't hesitate to reach out to the project maintainer.
